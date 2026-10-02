@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://movie-api.comtv.workers.dev/$1"
+    }
+  ]
+}
